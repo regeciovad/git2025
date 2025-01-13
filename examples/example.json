@@ -1,0 +1,97 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "age": 30,
+            "department": "Engineering",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 25,
+            "department": "Marketing",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Emily Johnson",
+            "age": 35,
+            "department": "Sales",
+            "email": "emily.johnson@example.com"
+        },
+        {
+            "id": 4,
+            "name": "Michael Brown",
+            "age": 40,
+            "department": "HR",
+            "email": "michael.brown@example.com"
+        },
+        {
+            "id": 5,
+            "name": "Jessica Williams",
+            "age": 28,
+            "department": "Engineering",
+            "email": "jessica.williams@example.com"
+        },
+        {
+            "id": 6,
+            "name": "Daniel Miller",
+            "age": 32,
+            "department": "Finance",
+            "email": "daniel.miller@example.com"
+        },
+        {
+            "id": 7,
+            "name": "Linda Davis",
+            "age": 29,
+            "department": "Marketing",
+            "email": "linda.davis@example.com"
+        },
+        {
+            "id": 8,
+            "name": "Robert Garcia",
+            "age": 45,
+            "department": "Engineering",
+            "email": "robert.garcia@example.com"
+        },
+        {
+            "id": 9,
+            "name": "Sarah Wilson",
+            "age": 27,
+            "department": "Sales",
+            "email": "sarah.wilson@example.com"
+        },
+        {
+            "id": 10,
+            "name": "David Martinez",
+            "age": 38,
+            "department": "HR",
+            "email": "david.martinez@example.com"
+        }
+    ],
+    "projects": [
+        {
+            "projectId": 101,
+            "projectName": "Project Alpha",
+            "startDate": "2025-01-01",
+            "endDate": "2025-06-30",
+            "status": "In Progress"
+        },
+        {
+            "projectId": 102,
+            "projectName": "Project Beta",
+            "startDate": "2024-05-15",
+            "endDate": "2024-12-31",
+            "status": "Completed"
+        },
+        {
+            "projectId": 103,
+            "projectName": "Project Gamma",
+            "startDate": "2025-03-01",
+            "endDate": "2025-09-30",
+            "status": "Planned"
+        }
+    ]
+}
