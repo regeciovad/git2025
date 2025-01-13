@@ -1,0 +1,18 @@
+[user]
+        name = Dominika Regéciová
+        email = regeciovad@gmail.com
+[color]
+        ui = true
+[advice]
+        ; Make git a little less verbose.
+        pushNonFastForward = false
+        statusHints = false
+        commitBeforeMerge = false
+        resolveConflict = false
+        detachedHead = false
+[fetch]
+        ; Automatically prune during `git fetch`.
+        prune = true
+[rebase]
+        ; Automatically stash before a rebase and unstash afterwards.
+        autoStash = true
